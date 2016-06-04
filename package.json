@@ -1,0 +1,13 @@
+{
+  "name": "stepupweb",
+  "version": "1.0.0",
+  "description": "StepUpWeb is a sample application demonstrating an step-up authentication process",
+  "dependencies": {
+    "express": "latest",
+    "ibm-mfp-web-sdk": "latest",
+    "request": "latest",
+    "requirejs": "latest"
+  },
+  "author": "IBM MobileFirst Platform Foundation",
+  "license": "SEE LICENSE IN README.MD"
+}

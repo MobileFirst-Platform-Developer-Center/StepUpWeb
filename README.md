@@ -31,6 +31,12 @@ Follow the [Setting up the Web development environment](https://mobilefirstplatf
 ### Supported Levels
 IBM MobileFirst Platform Foundation 8.0
 
+### Third Party
+This sample makes use of:
+
+* Nodejs to load RequireJS
+* RequireJS to load the MobileFirst SDK
+
 ### License
 Copyright 2016 IBM Corp.
 
